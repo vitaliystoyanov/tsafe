@@ -130,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TSAFE.</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-d\">Можливості</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-z\">Мобільний додаток</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">Контакти</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">Зворотній зв'язок</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">УВІЙТИ</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-d\">Можливості</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-z\">Мобільний додаток</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">Розробники</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">Зворотній зв'язок</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">УВІЙТИ</a></li>"
         },
         {
           "_tags": [
@@ -702,7 +702,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Розробники",
+          "title": "<span style=\"font-weight: normal;\">Розробники</span>",
           "meta": "<span style=\"font-style: normal;\">Якщо ви бажаєте долучитись до проекту, просто зв’яжіться з нами</span>"
         },
         {
@@ -876,7 +876,7 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "<span style=\"font-weight: normal;\">Контактна форма</span>",
+          "title": "<span style=\"font-weight: normal;\">Зворотній зв'язок</span>",
           "subtitle": "<span style=\"font-style: normal;\">напішіть нам якщо Ви маєте питання чи пропозиції&nbsp;</span>",
           "form": {
             "action": "developer.stoyanov@gmail.com",

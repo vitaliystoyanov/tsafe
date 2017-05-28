@@ -129,7 +129,7 @@
               "color": "#ffffff"
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TSAFE.</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TSAFE.</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-d\">Можливості</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-z\">Мобільний додаток</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">Контакти</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">Зворотній зв'язок</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">УВІЙТИ</a></li>"
         },
         {
@@ -237,9 +237,10 @@
               "name": "help",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#features7-m",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title1": "Сповіщення в реальному часі",
@@ -253,9 +254,10 @@
               "name": "protect",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#features7-m",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title2": "Повний контроль",
@@ -269,9 +271,10 @@
               "name": "touch-swipe",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#features7-m",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title3": "Лінії захисту",
@@ -285,9 +288,10 @@
               "name": "responsive",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#features7-m",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title4": "Доступ віддалено",
@@ -587,9 +591,10 @@
               "name": "setting",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "http://opencv.org/",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": true
             }
           },
           "title1": "OpenCV",
@@ -603,9 +608,10 @@
               "name": "growing-chart",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://nodejs.org/uk/",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": true
             }
           },
           "title2": "NodeJS",
@@ -619,9 +625,10 @@
               "name": "alert",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "https://firebase.google.com/products/cloud-messaging/",
               "size": 0,
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "newWindow": true
             }
           },
           "title3": "Firebase Cloud Messaging",
@@ -635,9 +642,10 @@
               "name": "phone",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#msg-box4-z",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title4": "Android&amp;IOS",
@@ -762,10 +770,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.facebook.com/vitaliy.stoyanov.9",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "title2": "Стоянов Віталій",
@@ -778,10 +786,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.facebook.com/dmelnique",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": true
             }
           },
           "title3": "Мельник Дмитро",
@@ -1150,7 +1158,7 @@
               "color": "#ffffff"
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TSAFE.</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TSAFE.</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-d\">Можливості</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-z\">Мобільний додаток</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-17\">Контакти</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-2\">Зворотній зв'язок</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">УВІЙТИ</a></li>"
         },
         {
